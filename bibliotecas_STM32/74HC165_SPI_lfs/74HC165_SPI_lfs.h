@@ -2,7 +2,7 @@
  * 74HC165_SPI_lfs.h
  *
  *  Created on: 24 jun. 2021
- *      Author: Usuario
+ *      Author: Luciano Salvatore
  */
 
 #ifndef INC_74HC165_SPI_LFS_H_
